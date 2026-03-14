@@ -1,2 +1,3 @@
 hello
 Máy A đã hoàn thành tính năng login
+May A fix bug login
